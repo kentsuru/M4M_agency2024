@@ -1979,6 +1979,14 @@ section + section {
     letter-spacing: 0.5px;
 }
 
+.footer-company {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 0.4rem;
+}
+
 /* 改行制御用のクラス */
 .pc-break {
     display: inline;
@@ -3009,6 +3017,14 @@ section.about .logo-video-right {
     font-size: 0.8rem;
     font-weight: 300;
     letter-spacing: 0.5px;
+}
+
+.footer-company {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 0.4rem;
 }
 
 /* 改行制御用のクラス */
